@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Valentine's in Six Beats
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
+<br>
+<br>
 
-You can use the [editor on GitHub](https://github.com/Boheme130/ValentineSixBeats.git.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+作品：Valentine's in Six Beats <br>
+作者：Gregory Ashe <br>
+评分：4.5/5 <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+关键词：戏中戏
 
-```markdown
-Syntax highlighted code block
+县级市番外，故事发生在Transactional Dynamics之后。Hazard和男友Somers兴趣迥异，H喜欢严肃非虚构作品，S热衷各种虚构类文学影视，尤其是浪漫喜剧。这天Somers在看《我爱你，西蒙》时，Hazard嗤之以鼻气得S直接用爆米花打H
 
-# Header 1
-## Header 2
-### Header 3
+两人前几个星期刚过了情人节，当时两人正处于争吵期间，尽管Somers在下午吵架后准备了一顿特别又浪漫的晚餐，但两人在餐桌上还是失控，给双方留下了难以弥补的伤害。现在Hazard提议再过一次情人节，由他亲自设计，说完他递给了Somers一套服装和剧本
 
-- Bulleted
-- List
+接下来的几章分别是两人照着剧本假扮成另一对从仇人变爱人，然后因为误解相互伤害，最终和解重新成为爱人的情侣。Hazard扮演了爱书如命却陷入经济危机的书店老板，Somers扮演不断收购地皮的都市大亨。四幕剧分别是可爱初识，性感难题，大争吵，大型表白。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/ValentineSixBeats.git.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+看了无数部爱情喜剧的Somers自然轻车熟驾，他甚至临场发挥添加了许多细节，最后在现实机场向书店老板表白更是直接舍弃了原剧本，靠自己的狗血文阅历策划了一场大型表白，引得机场里不知两人在做戏的路人分分鼓掌祝贺。最终两人终于弥补了情人节的遗憾，过上了真正属于恋人的一天。
