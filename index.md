@@ -1,5 +1,7 @@
 ## Valentine's in Six Beats
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
+
+![avatar](https://media.newyorker.com/photos/5e2a094cc496bb0009bc4829/master/pass/200203_r35781.jpg)
 <br>
 <br>
 
